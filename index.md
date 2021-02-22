@@ -9,21 +9,43 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+---
+title: | 
+         CS 474/574 Machine Learning \
+         HW1
+author: |
+          Parnal Joshi \
+          Bioinformatics and Computational Biology PhD Program \
+          Veterinary Microbiology and Preventive Medicine \
+          Iowa State University \
+          Ames, IA, USA \
+date:   \today
+header-includes: |
+     \usepackage{amssymb}
+     \usefonttheme[onlymath]{serif}
+---
 
-# Header 1
-## Header 2
-### Header 3
+# Warm Up
 
-- Bulleted
-- List
+- \textbf{Newton's First Law of Motion:} Newton's first law states that every object will remain at rest or in uniform motion in a straight line unless acted upon by an external unbalanced force. \
+- \textbf{Einstein's Mass-Energy Equation:} $E = mc^2$ \
+- \textbf{Time complexity of Quicksort on average in Big-O notation:} $O(nlogn)$ \
 
-1. Numbered
-2. List
+# 
 
-**Bold** and _Italic_ and `Code` text
+The three types of machine learning are:
 
-[Link](url) and ![Image](src)
+- Supervised
+- Unsupervised
+- Reinforcement
+
+# 
+
+The minimum dimension of the vector is $1*5$ (one row five columns)
+
+
+# Link to github.io
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
