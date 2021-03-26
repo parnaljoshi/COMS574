@@ -1,5 +1,3 @@
-# COMS574_HW01
+# COMS574
 
-Slideshow using HTML/Javascript for COM S 574 HW 01
-
-https://parnaljoshi.github.io/COMS574_HW01/
+Homework solutions to COMS 574 (Machine Learning) offered at ISU Spring 2021
